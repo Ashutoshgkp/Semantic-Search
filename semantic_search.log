@@ -1,0 +1,94 @@
+
+Query: Trump
+Execution Time: 0.0450 seconds
+==================================================
+Result 1:
+UUID: 23
+Title: A Grieving Sandy Hook Father on How to Fight Online Hoaxers
+Similarity Score: 0.4115
+--------------------------------------------------
+Result 2:
+UUID: 15
+Title: A Democracy Disappears
+Similarity Score: 0.4035
+--------------------------------------------------
+Result 3:
+UUID: 12
+Title: #ElectionWatch: Inauthentic Activity in India
+Similarity Score: 0.4009
+--------------------------------------------------
+Result 4:
+UUID: 13
+Title: 2020 Foresight: Bernie Sanders, The Insurgent Force
+Similarity Score: 0.3960
+--------------------------------------------------
+
+Query: okk
+Execution Time: 0.0621 seconds
+==================================================
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: Modi
+Execution Time: 0.0712 seconds
+==================================================
+Result 1:
+UUID: 10011
+Title: #ElectionWatch: Inauthentic Activity in India
+Similarity Score: 0.4431
+--------------------------------------------------
+Result 2:
+UUID: 10014
+Title: A Democracy Disappears
+Similarity Score: 0.3921
+--------------------------------------------------
+
+Query: Pakistan
+Execution Time: 0.0393 seconds
+==================================================
+Result 1:
+UUID: 10011
+Title: #ElectionWatch: Inauthentic Activity in India
+Similarity Score: 0.3980
+--------------------------------------------------
+Result 2:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.3934
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: Femal problems
+Execution Time: 0.0855 seconds
+==================================================
+
+Query: Female Problems
+Execution Time: 0.0732 seconds
+==================================================
+Result 1:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4048
+--------------------------------------------------
+
+Query: Female Health
+Execution Time: 0.0601 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------

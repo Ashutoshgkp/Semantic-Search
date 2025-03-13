@@ -1,3 +1,5 @@
+.gitignore
+.gitattributes
 search.py
 env
 chromadb_data
