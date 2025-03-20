@@ -92,3 +92,890 @@ UUID: 10005
 Title: A Brief History of Modern Abortion
 Similarity Score: 0.4037
 --------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: taboo
+Execution Time: 0.0965 seconds
+==================================================
+Result 1:
+UUID: 10021
+Title: A Gentleman’s Guide to Flirting on Instagram
+Similarity Score: 0.4155
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4040
+--------------------------------------------------
+
+Query: Cannabis
+Execution Time: 0.0514 seconds
+==================================================
+Result 1:
+UUID: 10007
+Title: A Cannabis-Based Drug Is Going to Change Lives
+Similarity Score: 0.5821
+--------------------------------------------------
+
+Query: taboo
+Execution Time: 0.0510 seconds
+==================================================
+Result 1:
+UUID: 10021
+Title: A Gentleman’s Guide to Flirting on Instagram
+Similarity Score: 0.4155
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4040
+--------------------------------------------------
+
+Query: work life balance
+Execution Time: 0.0531 seconds
+==================================================
+Result 1:
+UUID: 10002
+Title: 1 Way We Innovate: Randomized Lunching
+Similarity Score: 0.4221
+--------------------------------------------------
+Result 2:
+UUID: 10003
+Title: 13 Things I Learnt Moving from Agile Coaching into Product Management
+Similarity Score: 0.4009
+--------------------------------------------------
+
+Query: waelth accumulation
+Execution Time: 0.0599 seconds
+==================================================
+
+Query: wealth accumulation
+Execution Time: 0.0454 seconds
+==================================================
+Result 1:
+UUID: 10013
+Title: A Brief History of Campaign Finance Laws
+Similarity Score: 0.3973
+--------------------------------------------------
+
+Query: wealth inequalities
+Execution Time: 0.0602 seconds
+==================================================
+
+Query: wealth inequalities
+Execution Time: 0.0568 seconds
+==================================================
+
+Query: wealth inequality
+Execution Time: 0.0640 seconds
+==================================================
+
+Query: bearnie Sanders
+Execution Time: 0.0586 seconds
+==================================================
+Result 1:
+UUID: 10012
+Title: 2020 Foresight: Bernie Sanders, The Insurgent Force
+Similarity Score: 0.4194
+--------------------------------------------------
+
+Query: Waelth
+Execution Time: 0.0508 seconds
+==================================================
+
+Query: Wealth
+Execution Time: 0.0621 seconds
+==================================================
+
+Query: wealth
+Execution Time: 0.0403 seconds
+==================================================
+
+Query: Disease
+Execution Time: 0.0738 seconds
+==================================================
+Result 1:
+UUID: 10010
+Title: A Child With Dengue
+Similarity Score: 0.4327
+--------------------------------------------------
+Result 2:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.4073
+--------------------------------------------------
+
+Query: epilepsy
+Execution Time: 0.0492 seconds
+==================================================
+Result 1:
+UUID: 10007
+Title: A Cannabis-Based Drug Is Going to Change Lives
+Similarity Score: 0.4017
+--------------------------------------------------
+
+Query: wealth
+Execution Time: 0.0456 seconds
+==================================================
+
+Query: marketing
+Execution Time: 0.0320 seconds
+==================================================
+Result 1:
+UUID: 10019
+Title: A Fatal Helicopter Crash Exposes the Complexities — and Risks — of Influencer Marketing
+Similarity Score: 0.4651
+--------------------------------------------------
+Result 2:
+UUID: 10003
+Title: 13 Things I Learnt Moving from Agile Coaching into Product Management
+Similarity Score: 0.4393
+--------------------------------------------------
+Result 3:
+UUID: 10001
+Title: 0—How I discovered my voice
+Similarity Score: 0.4140
+--------------------------------------------------
+Result 4:
+UUID: 10002
+Title: 1 Way We Innovate: Randomized Lunching
+Similarity Score: 0.4127
+--------------------------------------------------
+Result 5:
+UUID: 10004
+Title: 15 Interview Questions to Gauge Company Culture
+Similarity Score: 0.4093
+--------------------------------------------------
+
+Query: ethical Standards
+Execution Time: 0.0576 seconds
+==================================================
+Result 1:
+UUID: 10019
+Title: A Fatal Helicopter Crash Exposes the Complexities — and Risks — of Influencer Marketing
+Similarity Score: 0.4158
+--------------------------------------------------
+Result 2:
+UUID: 10004
+Title: 15 Interview Questions to Gauge Company Culture
+Similarity Score: 0.4058
+--------------------------------------------------
+Result 3:
+UUID: 10013
+Title: A Brief History of Campaign Finance Laws
+Similarity Score: 0.3944
+--------------------------------------------------
+Result 4:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.3932
+--------------------------------------------------
+
+Query: ethics
+Execution Time: 0.0470 seconds
+==================================================
+Result 1:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4456
+--------------------------------------------------
+Result 2:
+UUID: 10019
+Title: A Fatal Helicopter Crash Exposes the Complexities — and Risks — of Influencer Marketing
+Similarity Score: 0.4266
+--------------------------------------------------
+Result 3:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.4128
+--------------------------------------------------
+Result 4:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4086
+--------------------------------------------------
+Result 5:
+UUID: 10022
+Title: A Grieving Sandy Hook Father on How to Fight Online Hoaxers
+Similarity Score: 0.4018
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: Female Health
+Execution Time: 0.1184 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------
+
+Query: poiwerqw wpeoir
+Execution Time: 0.0841 seconds
+==================================================
+
+Query: migrant crisis
+Execution Time: 0.0675 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.4326
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4263
+--------------------------------------------------
+Result 3:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.4129
+--------------------------------------------------
+Result 4:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.4092
+--------------------------------------------------
+Result 5:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4000
+--------------------------------------------------
+
+Query: slm riuq4 kefm 
+Execution Time: 0.0688 seconds
+==================================================
+Result 1:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.3979
+--------------------------------------------------
+
+Query: dlfkasj; aslkjfd
+Execution Time: 0.0929 seconds
+==================================================
+
+Query: female health
+Execution Time: 0.1001 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------
+
+Query: sadflkj sadfjlk
+Execution Time: 0.0658 seconds
+==================================================
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: manager
+Execution Time: 0.1834 seconds
+==================================================
+Result 1:
+UUID: 10003
+Title: 13 Things I Learnt Moving from Agile Coaching into Product Management
+Similarity Score: 0.4019
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: imigrant crisis
+Execution Time: 0.1082 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.4195
+--------------------------------------------------
+Result 2:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.4014
+--------------------------------------------------
+Result 3:
+UUID: 10014
+Title: A Democracy Disappears
+Similarity Score: 0.3984
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: Female health
+Execution Time: 0.1482 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------
+
+Query: female health
+Execution Time: 0.0564 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------
+
+Query: migrant crisis
+Execution Time: 0.0447 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.4326
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4263
+--------------------------------------------------
+Result 3:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.4129
+--------------------------------------------------
+Result 4:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.4092
+--------------------------------------------------
+Result 5:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4000
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: migrant crisis
+Execution Time: 0.0936 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.6040
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.5978
+--------------------------------------------------
+Result 3:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.5845
+--------------------------------------------------
+Result 4:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.5808
+--------------------------------------------------
+Result 5:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.5715
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Insert of existing embedding ID: 10000
+Insert of existing embedding ID: 10001
+Insert of existing embedding ID: 10002
+Insert of existing embedding ID: 10003
+Insert of existing embedding ID: 10004
+Insert of existing embedding ID: 10005
+Insert of existing embedding ID: 10006
+Insert of existing embedding ID: 10007
+Insert of existing embedding ID: 10008
+Insert of existing embedding ID: 10009
+Insert of existing embedding ID: 10010
+Insert of existing embedding ID: 10011
+Insert of existing embedding ID: 10012
+Insert of existing embedding ID: 10013
+Insert of existing embedding ID: 10014
+Insert of existing embedding ID: 10015
+Insert of existing embedding ID: 10016
+Insert of existing embedding ID: 10017
+Insert of existing embedding ID: 10018
+Insert of existing embedding ID: 10019
+Insert of existing embedding ID: 10020
+Insert of existing embedding ID: 10021
+Insert of existing embedding ID: 10022
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+
+Query: migrant crisis
+Execution Time: 0.1025 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.6040
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.5978
+--------------------------------------------------
+Result 3:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.5845
+--------------------------------------------------
+Result 4:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.5808
+--------------------------------------------------
+Result 5:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.5715
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: migrant crisis
+Execution Time: 0.0792 seconds
+==================================================
+Result 1:
+UUID: 10016
+Title: A Hollywood Without Immigrants
+Similarity Score: 0.4326
+--------------------------------------------------
+Result 2:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.4263
+--------------------------------------------------
+Result 3:
+UUID: 10008
+Title: A Century Ago the Spanish Flu Killed 50 Million—And Then We Forgot About It
+Similarity Score: 0.4129
+--------------------------------------------------
+Result 4:
+UUID: 10015
+Title: A Holistic Approach to Storytelling
+Similarity Score: 0.4092
+--------------------------------------------------
+Result 5:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4000
+--------------------------------------------------
+
+Query: female health
+Execution Time: 0.0483 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.4527
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.4488
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.4037
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+Insert of existing embedding ID: 10000
+Insert of existing embedding ID: 10001
+Insert of existing embedding ID: 10002
+Insert of existing embedding ID: 10003
+Insert of existing embedding ID: 10004
+Insert of existing embedding ID: 10005
+Insert of existing embedding ID: 10006
+Insert of existing embedding ID: 10007
+Insert of existing embedding ID: 10008
+Insert of existing embedding ID: 10009
+Insert of existing embedding ID: 10010
+Insert of existing embedding ID: 10011
+Insert of existing embedding ID: 10012
+Insert of existing embedding ID: 10013
+Insert of existing embedding ID: 10014
+Insert of existing embedding ID: 10015
+Insert of existing embedding ID: 10016
+Insert of existing embedding ID: 10017
+Insert of existing embedding ID: 10018
+Insert of existing embedding ID: 10019
+Insert of existing embedding ID: 10020
+Insert of existing embedding ID: 10021
+Insert of existing embedding ID: 10022
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+
+Query: female health
+Execution Time: 0.0819 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.6232
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.6195
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.5752
+--------------------------------------------------
+Result 4:
+UUID: 10010
+Title: A Child With Dengue
+Similarity Score: 0.5523
+--------------------------------------------------
+Result 5:
+UUID: 10020
+Title: A Generation of Depression?
+Similarity Score: 0.5520
+--------------------------------------------------
+
+Query: asofja ALFKJSDF
+Execution Time: 0.0748 seconds
+==================================================
+Result 1:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.5447
+--------------------------------------------------
+Result 2:
+UUID: 10002
+Title: 1 Way We Innovate: Randomized Lunching
+Similarity Score: 0.5406
+--------------------------------------------------
+Result 3:
+UUID: 10007
+Title: A Cannabis-Based Drug Is Going to Change Lives
+Similarity Score: 0.5365
+--------------------------------------------------
+Result 4:
+UUID: 10001
+Title: 0—How I discovered my voice
+Similarity Score: 0.5344
+--------------------------------------------------
+Result 5:
+UUID: 10022
+Title: A Grieving Sandy Hook Father on How to Fight Online Hoaxers
+Similarity Score: 0.5331
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+Insert of existing embedding ID: 10000
+Insert of existing embedding ID: 10001
+Insert of existing embedding ID: 10002
+Insert of existing embedding ID: 10003
+Insert of existing embedding ID: 10004
+Insert of existing embedding ID: 10005
+Insert of existing embedding ID: 10006
+Insert of existing embedding ID: 10007
+Insert of existing embedding ID: 10008
+Insert of existing embedding ID: 10009
+Insert of existing embedding ID: 10010
+Insert of existing embedding ID: 10011
+Insert of existing embedding ID: 10012
+Insert of existing embedding ID: 10013
+Insert of existing embedding ID: 10014
+Insert of existing embedding ID: 10015
+Insert of existing embedding ID: 10016
+Insert of existing embedding ID: 10017
+Insert of existing embedding ID: 10018
+Insert of existing embedding ID: 10019
+Insert of existing embedding ID: 10020
+Insert of existing embedding ID: 10021
+Insert of existing embedding ID: 10022
+Add of existing embedding ID: 10000
+Add of existing embedding ID: 10001
+Add of existing embedding ID: 10002
+Add of existing embedding ID: 10003
+Add of existing embedding ID: 10004
+Add of existing embedding ID: 10005
+Add of existing embedding ID: 10006
+Add of existing embedding ID: 10007
+Add of existing embedding ID: 10008
+Add of existing embedding ID: 10009
+Add of existing embedding ID: 10010
+Add of existing embedding ID: 10011
+Add of existing embedding ID: 10012
+Add of existing embedding ID: 10013
+Add of existing embedding ID: 10014
+Add of existing embedding ID: 10015
+Add of existing embedding ID: 10016
+Add of existing embedding ID: 10017
+Add of existing embedding ID: 10018
+Add of existing embedding ID: 10019
+Add of existing embedding ID: 10020
+Add of existing embedding ID: 10021
+Add of existing embedding ID: 10022
+
+Query: female health
+Execution Time: 0.1286 seconds
+==================================================
+Result 1:
+UUID: 10009
+Title: A Challenged Healthcare System: The Mothers’ Perspective
+Similarity Score: 0.6232
+--------------------------------------------------
+Result 2:
+UUID: 10006
+Title: A CPAP is a Girl’s Best Friend
+Similarity Score: 0.6195
+--------------------------------------------------
+Result 3:
+UUID: 10005
+Title: A Brief History of Modern Abortion
+Similarity Score: 0.5752
+--------------------------------------------------
+Result 4:
+UUID: 10010
+Title: A Child With Dengue
+Similarity Score: 0.5523
+--------------------------------------------------
+
+Query: weoij fsdoifj
+Execution Time: 0.0592 seconds
+==================================================
+
+Query: kkksdf lsdkjf
+Execution Time: 0.0588 seconds
+==================================================
+Result 1:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.5677
+--------------------------------------------------
+
+Query: ewipf zcN>xvcn.
+Execution Time: 0.1269 seconds
+==================================================
+
+Query: mnvc qweopirkkk
+Execution Time: 0.0609 seconds
+==================================================
+
+Query: lksdjfalskdfjlksdjf lasdkjf
+Execution Time: 0.0652 seconds
+==================================================
+
+Query: lkjasdf lkj
+Execution Time: 0.0841 seconds
+==================================================
+Result 1:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.5538
+--------------------------------------------------
+
+Query: kk
+Execution Time: 0.0519 seconds
+==================================================
+
+Query: kkk
+Execution Time: 0.0579 seconds
+==================================================
+Result 1:
+UUID: 10017
+Title: A Jewish Perspective on ‘BlacKkKlansman’
+Similarity Score: 0.6539
+--------------------------------------------------
+Result 2:
+UUID: 10022
+Title: A Grieving Sandy Hook Father on How to Fight Online Hoaxers
+Similarity Score: 0.5658
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
