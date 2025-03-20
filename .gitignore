@@ -6,3 +6,5 @@ chromadb_data
 look.py
 try.py
 try-embed.py
+blog-data-large.db
+blog-data.db
