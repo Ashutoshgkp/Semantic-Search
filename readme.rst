@@ -7,7 +7,11 @@ This project implements a semantic search system using ChromaDB and SentenceTran
 
 Files
 -----
-- `Semantic.py`: The main script that contains the implementation of the semantic search system.
+- `Embedding.py`: Contains the code to embed SQLite data to vector data in ChromaDB.
+- `new_search.py`: Uses the saved ChromaDB vectors to perform searches.
+- `csv-sqlite.py`: Converts the CSV file to SQLite format.
+- `tag-generating.py`: Uses spaCy and KeyBERT to generate tags.
+- `Semantic.py`: An earlier implementation of the semantic search system.
 
 Dependencies
 ------------
@@ -15,45 +19,62 @@ Dependencies
 - `chromadb`
 - `sentence-transformers`
 - `logging`
+- `sqlite3`
+- `spacy` (Optional - for tag generation)
+- `keybert` (Optional - for tag generation)
 
 Installation
 ------------
 1. Clone the repository.
-2. Install the required dependencies using pip:
+2. Install and launch a virtual environment.
+3. Install the required dependencies using pip:
    ```
    pip install pandas chromadb sentence-transformers
    ```
 
 Usage
 -----
-1. Prepare your dataset in a CSV file named `Full-data.csv` with the following columns:
-   - `UUID`: Unique identifier for each entry.
-   - `Title`: Title of the content.
-   - `Content`: The text content to be indexed and searched.
-   - `Tags`: Tags associated with the content.
+1. Prepare your dataset in a CSV file containing 680,000+ records with the following columns:
+   - `age`: Age of the individual.
+   - `topic`: Topic of the content.
+   - `text`: The text content to be indexed and searched.
+   - The UUID is generated in the code.
 
-2. Run the `Semantic.py` script:
+2. Convert the CSV file to SQLite format using `csv-sqlite.py`:
    ```
-   python Semantic.py
+   python csv-sqlite.py
    ```
 
-3. Enter your search query when prompted. Type `exit` to quit the program.
+3. Embed the SQLite data to vector data in ChromaDB using `Embedding.py`:
+   ```
+   python Embedding.py
+   ```
+
+4. Perform searches using `new_search.py`:
+   ```
+   python new_search.py
+   ```
 
 Logging
 -------
-The script logs the search queries and results to a file named `semantic_search.log`.
+The scripts log the search queries and results to a file named `semantic_search.log`.
 
 Functions
 ---------
-- `load_data(file_path)`: Loads CSV data into a Pandas DataFrame.
+Embedding.py
+~~~~~~~~~~~~
+- `load_data_from_sqlite(db_path, table_name)`: Loads data from an SQLite database.
 - `initialize_chroma()`: Initializes the ChromaDB client and creates/loads a collection.
 - `initialize_embedding_model()`: Loads the SentenceTransformer model for text embedding.
 - `embed_text(model, text)`: Generates embeddings for the given text.
-- `populate_collection(collection, df, embedding_model)`: Adds data to the ChromaDB collection.
-- `semantic_search(collection, model, query, top_k=5, threshold=0.39)`: Performs semantic search and measures execution time.
+- `populate_collection(collection, df, embedding_model)`: Adds data to the ChromaDB collection using batch processing.
+
+new_search.py
+~~~~~~~~~~~~~
+- `semantic_search(collection, model, query, top_k=5, threshold=0.5520)`: Performs semantic search and measures execution time.
 
 Customization
 -------------
-- You can change the embedding model by modifying the `initialize_embedding_model` function.
-- Adjust the similarity score threshold in the `semantic_search` function to filter results based on your requirements.
+- You can change the embedding model by modifying the `initialize_embedding_model` function in `Embedding.py`.
+- Adjust the similarity score threshold in the `semantic_search` function in `new_search.py` to filter results based on your requirements.
 
