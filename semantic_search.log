@@ -979,3 +979,71 @@ Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
 Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 Use pytorch device_name: cpu
 Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+
+Query: developing countries
+Execution Time: 24.0266 seconds
+==================================================
+Result 1:
+UUID: a3a12e0e-1f60-42ed-b1cc-3eeb72c71ca2
+Topic: Internet
+Similarity Score: 0.6063
+--------------------------------------------------
+Result 2:
+UUID: 7a8a38a8-5752-49b4-8e5f-a8cc113da7f1
+Topic: Technology
+Similarity Score: 0.6016
+--------------------------------------------------
+Result 3:
+UUID: 03ded7b8-3df9-4c93-ac64-0107091d412e
+Topic: Publishing
+Similarity Score: 0.6007
+--------------------------------------------------
+Result 4:
+UUID: 16c121c7-14a6-4185-aee0-6b1320190304
+Topic: Engineering
+Similarity Score: 0.5986
+--------------------------------------------------
+Result 5:
+UUID: 4a0afa9f-3128-4203-a63f-2ffdbfa173fa
+Topic: indUnk
+Similarity Score: 0.5955
+--------------------------------------------------
+
+Query: imigrant crisis
+Execution Time: 18.6751 seconds
+==================================================
+Result 1:
+UUID: 91e7b1fc-da1a-47a4-8e68-766a1c9192aa
+Topic: indUnk
+Similarity Score: 0.6321
+--------------------------------------------------
+Result 2:
+UUID: 9e43b8a1-4a78-46d9-b68e-9918534422ff
+Topic: indUnk
+Similarity Score: 0.6320
+--------------------------------------------------
+Result 3:
+UUID: e1192b7b-d083-43bd-b6c4-236148f8cbef
+Topic: Technology
+Similarity Score: 0.6282
+--------------------------------------------------
+Result 4:
+UUID: d38149d1-450d-48f0-b76e-638cbf538c67
+Topic: indUnk
+Similarity Score: 0.6231
+--------------------------------------------------
+Result 5:
+UUID: d37bf77e-60b4-4c5b-9b41-a38d55ad3012
+Topic: BusinessServices
+Similarity Score: 0.6206
+--------------------------------------------------
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+Use pytorch device_name: cpu
+Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2

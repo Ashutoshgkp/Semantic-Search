@@ -1,6 +1,0 @@
-# Set line endings for common file types
-*.py text eol=lf
-*.csv text eol=lf
-*.txt text eol=lf
-*.sh text eol=lf
-*.bat text eol=crlf

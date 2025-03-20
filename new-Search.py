@@ -31,7 +31,12 @@ def semantic_search(collection, model, query, top_k=5, threshold=0.5520):
         query_embeddings=[query_embedding],
         n_results=top_k,
         include=["metadatas", "distances"]
-    )
+    )'''
+    results = collection.query(
+        query_texts=[query],
+        n_results=top_k,
+        include=["metadatas", "distances"]
+    )'''
     end_time = time.time()
     
     execution_time = end_time - start_time
