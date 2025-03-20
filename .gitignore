@@ -5,4 +5,4 @@ env
 chromadb_data
 look.py
 try.py
-
+try-embed.py
